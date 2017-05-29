@@ -1,0 +1,38 @@
+/* h2 {
+	margin-bottom: 50px;
+} */
+h1, h2 {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.guestgbook {
+	position: relative;
+}
+.guestgbook input,
+.guestgbook textarea {
+	/*float: right;*/
+	position: absolute;
+	left: 140px;
+	width: 170px;
+}
+.guestgbook,
+.mes-box {
+	width: 40%;
+	margin: auto;
+}
+.form-block {
+	margin-bottom: 20px;
+}
+.mes-block input {
+
+}
+.guestgbook span {
+	display: inline-block;
+	position: absolute;
+	left: 325px;
+	color: red; 
+	margin-top: -4px;
+}
+.guestgbook button {
+	margin-top: 30px;
+}
